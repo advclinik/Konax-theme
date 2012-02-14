@@ -1,0 +1,28 @@
+div#container {
+	-moz-box-shadow: none;
+
+    	-webkit-box-shadow: none;
+	-moz-border-radius-bottomleft: 0px;
+
+	-webkit-border-radius-bottomleft: 0px;
+	-khtml-border-radius-bottomleft: 0px;
+	-moz-border-radius-bottomright: 0px;
+
+	-webkit-border-radius-bottomright: 0px;
+	-khtml-border-radius-bottomright: 0px;
+	-moz-border-radius-topleft: 0px;
+
+	-webkit-border-radius-topleft: 0px;
+	-khtml-border-radius-topleft: 0px;
+	-moz-border-radius-topright: 0px;
+
+	-webkit-border-radius-topright: 0px;
+	-khtml-border-radius-topright: 0px;
+	border-bottom-right-radius: 0px;
+
+	border-bottom-left-radius: 0px;
+	border-top-right-radius: 0px;
+
+	border-top-left-radius: 0px;
+	border-right: 0;
+}
